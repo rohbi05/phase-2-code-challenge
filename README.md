@@ -40,6 +40,7 @@ The Flat Iron Bank is  a React application . Users can add .search and view bank
 
 
 ### Deployed link
+[Link](https://phase-2-code-challenge-chi.vercel.app/)
 
 ### Author
 [Shantal Rohbi](https://github.com/rohbi05)
